@@ -4,4 +4,4 @@ Personal website
 (demo)[./test]
 [what](./test)
 
-[photography test](./photography)
+[photography test](./photography/docs)
