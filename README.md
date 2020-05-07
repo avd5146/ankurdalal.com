@@ -5,7 +5,7 @@ Personal website
   <summary> <- press </summary>
   
   ```
-  {% include_relative photography/docs/demo/index.md }
+  {% include_relative photography/docs/demo/index.md %}
   ```
 
 </details>
