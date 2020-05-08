@@ -34,7 +34,7 @@
 <summary> <- press </summary>
 <!-- Necessary empty line -->
 
-```
+```md
   {% include_relative photography/README.md %}
 ```
 
