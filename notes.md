@@ -6,7 +6,7 @@
 <summary> <- press </summary>
 <!-- Necessary empty line -->
 
-  [photography test](./photography/docs/index.md)
+  <!-- [photography test](photography/docs/index.md) -->
 
 </details>
 
