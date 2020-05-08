@@ -6,13 +6,14 @@
 <summary> <- press </summary>
 <!-- Necessary empty line -->
 
-  <!-- [photography test](photography/docs/index.md) -->
+  [photography test](./photography/docs)
 
 </details>
 
 ## Include from other file
 <!-- jekyll specific -->
-{% include README.md %}
+<!-- if using only 'include', it must be contained in _include -->
+{% include_relative README.md %}
 <br>
 <br>
 {% include_relative photography/README.md %}
