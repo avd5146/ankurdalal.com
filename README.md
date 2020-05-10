@@ -2,7 +2,7 @@
 
 Some more ANKUR DALAL web footprint because...why not?
 
-<!-- [Notes](notes.md) -->
+[Notes](notes.md)
 ## [AtomicBombStrong](./AtomicBombStrong/theory.md)
 
 
