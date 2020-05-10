@@ -1,3 +1,6 @@
 [submodule "photography"]
 	path = photography
 	url = https://github.com/avd5146/photography.git
+[submodule "AtomicBombStrong"]
+	path = AtomicBombStrong
+	url = https://github.com/avd5146/AtomicBombStrong.git
