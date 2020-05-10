@@ -42,7 +42,7 @@
 
 ## PHP
 
-[try php](./sample.php)
+[try php](./sample.html)
 
 ---
 ### ankurdalal.com
