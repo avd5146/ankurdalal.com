@@ -12,4 +12,4 @@ dynamic site hosted on ~~AWS~~ now on my own server @ [dynamic.ankurdalal.com](h
 
 
 ---
-Copyright © 2022 Ankur Dalal - All Rights Reserved.
+Copyright © Forever Ankur Dalal - All Rights Reserved.
